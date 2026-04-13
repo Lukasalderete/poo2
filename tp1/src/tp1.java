@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class Notas {
+public class tp1 {
     int notas;
 
 

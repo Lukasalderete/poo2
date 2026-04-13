@@ -1,12 +1,12 @@
 import java.util.Scanner;
 
-public class Parciales {
+public class tp2 {
     double n1, n2, n3;
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        Parciales alumno = new Parciales();
+        tp2 alumno = new tp2();
 
         System.out.println("introduce la nota del parcial 1:");
         alumno.n1 = sc.nextDouble();
@@ -25,6 +25,5 @@ public class Parciales {
         }
     }
 }
-
 
 
